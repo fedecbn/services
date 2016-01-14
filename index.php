@@ -245,7 +245,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<a class="popup-with-zoom-anim" href="#small-dialog">
 				<div class="portfolio ressource" data-cat="ressource">
 					<div class="portfolio-wrapper">			
-							<a href ="http://wiki.fcbn.fr"><img src="images/pic9.jpg"  
+							<a href ="http://wiki.fcbn.fr"><img src="images/pic10.jpg"  
 							title="Le wiki rassemble les ressources documentaires concernant les différents outils et services proposées par la FCBN."
 							alt="Wiki" />
 						<div class="label">
