@@ -258,6 +258,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</div>	
 			</a> 
+			<a class="popup-with-zoom-anim" href="#small-dialog">
+				<div class="portfolio outil" data-cat="outil">
+					<div class="portfolio-wrapper">			
+							<a href ="https://github.com/fedecbn"><img src="images/pic11.jpg"  
+							title="Github est une plateforme de partage de code. La FCBN a décidé de mettre à disposition un certain nombre de ses projets à travers ces outils. Vous pouvez notamment y retrouver le Codex, les scripts utilisé pour le Hub, la page service.."
+							alt="Github" />
+						<div class="label">
+							<div class="label-text">
+								<p class="text-title">Github FCBN</p>
+								<span class="text-category">github.com/fedecbn</span>
+							</div>
+							<div class="label-bg"></div>
+						</div>
+					</div>
+				</div>	
+			</a> 
 		</div>
 	</div><!-- end container -->
 	</div>
