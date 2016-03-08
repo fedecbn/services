@@ -199,7 +199,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="portfolio-wrapper">			
 							<a href ="http://doc.fcbn.fr"><img src="images/pic7.jpg"  
 							title="PMB est une application de gestion de ressources documentaire. L'objectif de cet outil est de partager les ressources bibliographiques du réseau des CBN au niveau national"
-							alt="Documentation (PMB)" />
+							alt="Documentation (PMB)" /></a>
 						<div class="label">
 							<div class="label-text">
 								<p class="text-title">Documentation (PMB)</p>
@@ -215,7 +215,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="portfolio-wrapper">			
 							<a href ="http://data.fcbn.fr"><img src="images/pic8.jpg"  
 							title="Cette plateforme est un service permettant aux CBN de mettre à disposition leurs propres données et extraire les données issus de l'agrégation nationale."
-							alt="Accès aux données SI FLORE" />
+							alt="Accès aux données SI FLORE" /></a>
 						<div class="label">
 							<div class="label-text">
 								<p class="text-title">Accès aux données SI Flore</p>
@@ -231,7 +231,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="portfolio-wrapper">			
 							<a href ="http://taxanalyst.fcbn.fr"><img src="images/pic9.jpg"  
 							title="Taxa analyst est un simple outil de visualisation des données issus de TAXREF (suivi des différentes version), ainsi que des données issus des catalogues régionaux."
-							alt="Taxa Analyst" />
+							alt="Taxa Analyst" /></a>
 						<div class="label">
 							<div class="label-text">
 								<p class="text-title">Taxa Analyst</p>
@@ -247,7 +247,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="portfolio-wrapper">			
 							<a href ="http://wiki.fcbn.fr"><img src="images/pic10.jpg"  
 							title="Le wiki rassemble les ressources documentaires concernant les différents outils et services proposées par la FCBN."
-							alt="Wiki" />
+							alt="Wiki" /></a>
 						<div class="label">
 							<div class="label-text">
 								<p class="text-title">Wiki FCBN</p>
@@ -261,13 +261,29 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<a class="popup-with-zoom-anim" href="#small-dialog">
 				<div class="portfolio outil" data-cat="outil">
 					<div class="portfolio-wrapper">			
-							<a href ="https://github.com/fedecbn"><img src="images/pic11.jpg"  
+							<a href ="http://github.fcbn.fr"><img src="images/pic11.jpg"  
 							title="Github est une plateforme de partage de code. La FCBN a décidé de mettre à disposition un certain nombre de ses projets à travers ces outils. Vous pouvez notamment y retrouver le Codex, les scripts utilisé pour le Hub, la page service.."
-							alt="Github" />
+							alt="Github" /></a>
 						<div class="label">
 							<div class="label-text">
 								<p class="text-title">Github FCBN</p>
-								<span class="text-category">github.com/fedecbn</span>
+								<span class="text-category">github.fcbn.fr</span>
+							</div>
+							<div class="label-bg"></div>
+						</div>
+					</div>
+				</div>	
+			</a> 
+			<a class="popup-with-zoom-anim" href="#small-dialog">
+				<div class="portfolio ressource" data-cat="ressource">
+					<div class="portfolio-wrapper">			
+							<a href ="http://cartes.fcbn.fr"><img src="images/pic12.jpg"  
+							title="Cette plateforme est une cartothèque regroupant toutes les cartes mises à disposition par le réseau des CBN."
+							alt="Cartothèque" /></a>
+						<div class="label">
+							<div class="label-text">
+								<p class="text-title">Cartothèque</p>
+								<span class="text-category">cartes.fcbn.fr</span>
 							</div>
 							<div class="label-bg"></div>
 						</div>
