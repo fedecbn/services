@@ -318,9 +318,13 @@ body {
 	font-weight: 600;
 }
 /*start main */
-.main_bg{
+body {
 	background: #34495E;
-	height:1300px;
+}
+
+.main_bg{
+	/*background: #34495E;*/
+	/*height:2000px;*/
 }
 .main{
 	padding: 4%;
